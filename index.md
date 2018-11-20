@@ -30,6 +30,6 @@ srgbMatrix=
 
 # 附数据及代码
 
-[jupyter notebook]()
-[matlab demosaic]()
+[jupyter notebook](https://github.com/newdee/bcolor/blob/master/Read_raw_video_frame.ipynb)
+[matlab ]()
 [raw数据](https://github.com/newdee/bcolor/blob/master/00100.raw)

@@ -20,14 +20,16 @@ srgbMatrix=
 # 问题
 ## 未使用颜色校正矩阵得出的实际图：
 ![未校正](https://user-images.githubusercontent.com/12610440/48762017-0c21ae80-ece5-11e8-83df-330fa96ce46b.png)
-- [原图]()
+- [原图](https://github.com/newdee/bcolor/blob/master/DM_orig_no_CCM.png)
 
 ## 颜色校正+伽马校正
 ![校正](https://user-images.githubusercontent.com/12610440/48762221-89e5ba00-ece5-11e8-939c-caface4eb2d3.png)
-- [原图]()
+- [原图](https://github.com/newdee/bcolor/blob/master/DM_orig_CCM.png)
 
 ---
 
-#附代码
+# 附数据及代码
+
 [jupyter notebook]()
 [matlab demosaic]()
+[raw数据](https://github.com/newdee/bcolor/blob/master/00100.raw)
